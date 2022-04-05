@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YASH6004
-- 👀 I’m interested in Learning 
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on JS, TSX, PY 
 - 📫 How to reach me yash.dubey@mail.vinove.com
